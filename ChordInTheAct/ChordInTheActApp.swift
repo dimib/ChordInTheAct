@@ -9,9 +9,13 @@ import SwiftUI
 
 @main
 struct ChordInTheActApp: App {
+    
+    let applicationModel = ApplicationModel()
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(applicationModel)
         }
     }
 }
