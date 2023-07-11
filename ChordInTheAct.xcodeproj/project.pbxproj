@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1D9E74482A5DD0BF001EE271 /* Chords52.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 1D9E74472A5DD08C001EE271 /* Chords52.mlmodel */; };
 		3652D0322A5AB371000C9DF2 /* Chords2a.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 3652D0312A5AB371000C9DF2 /* Chords2a.mlmodel */; };
 		3652D0362A5AF1AD000C9DF2 /* Chords3a.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 3652D0352A5AF1AC000C9DF2 /* Chords3a.mlmodel */; };
 		367586162A5675F5001A1096 /* ChordInTheActApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 367586152A5675F5001A1096 /* ChordInTheActApp.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1D9E74472A5DD08C001EE271 /* Chords52.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Chords52.mlmodel; sourceTree = "<group>"; };
 		3652D0312A5AB371000C9DF2 /* Chords2a.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Chords2a.mlmodel; sourceTree = "<group>"; };
 		3652D0352A5AF1AC000C9DF2 /* Chords3a.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Chords3a.mlmodel; sourceTree = "<group>"; };
 		367586122A5675F5001A1096 /* ChordInTheAct.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChordInTheAct.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -185,6 +187,7 @@
 			children = (
 				3652D0312A5AB371000C9DF2 /* Chords2a.mlmodel */,
 				3652D0352A5AF1AC000C9DF2 /* Chords3a.mlmodel */,
+				1D9E74472A5DD08C001EE271 /* Chords52.mlmodel */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				3675864C2A575C1C001A1096 /* AppDefaults.swift in Sources */,
 				3675862F2A567E55001A1096 /* AudioStreamManagerConfig.swift in Sources */,
+				1D9E74482A5DD0BF001EE271 /* Chords52.mlmodel in Sources */,
 				367586482A567FA7001A1096 /* CustomSoundClassifierConfiguration.swift in Sources */,
 				367586182A5675F5001A1096 /* ContentView.swift in Sources */,
 				367586302A567E55001A1096 /* AudioStreamManager.swift in Sources */,
