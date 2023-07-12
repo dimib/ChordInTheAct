@@ -2,4 +2,4 @@
 
 Simple chord suggestion App for iOS
 
-Part of the Audiostpielplatz
+Part of the Audiospielplatz
